@@ -9,4 +9,3 @@ remote: udh ada repo di lokal, pengen ngehubungin di github.
 ~register
 ~finding food
 ~shop recipe
-~news
